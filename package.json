@@ -1,0 +1,19 @@
+{
+  "name": "chai_aur_backend",
+  "version": "1.0.0",
+  "description": "A basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Man Mohan Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1"
+  }
+}
