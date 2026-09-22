@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A basic concept related to backend how to connect frontend and backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Man Mohan Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
